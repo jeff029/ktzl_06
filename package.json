@@ -1,6 +1,6 @@
 {
   "title": "KTZL",
-  "name": "Karma Tekchen Zabsal Ling",
+  "name": "Karma-Tekchen-Zabsal-Ling",
   "version": "0.5",
   "scripts": {
     "start": "gulp watch"
